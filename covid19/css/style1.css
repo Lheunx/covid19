@@ -1,0 +1,47 @@
+header{
+  height: 80px;
+  padding-left: 10%;
+  background-color: white;
+  color: black;}
+.status{
+  height: 570px;
+  border: solid 1px;
+}
+
+.right{
+  width: 500px;
+  height: 570px;
+  border: solid 1px;
+  /* text-align: center; */
+}
+.navbar-inner{
+  padding-left: 10%;
+}
+.left{
+  border: 1px solid;
+}
+.in,.out{
+  display: inline;
+  border: 3px solid;
+}
+.total1{
+  text-align: center;
+  display: inline;
+  border: 1px solid;
+}
+
+.name{
+  display: block;
+}
+.num{
+  display: block;
+}
+.before{
+  display: block;
+}
+/* #ganwon{
+  position:relative;
+  display: inline;
+  left: 0px;
+  top:0px;
+}
